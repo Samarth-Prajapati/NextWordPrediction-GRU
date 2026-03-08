@@ -1,7 +1,5 @@
 # 🧠 Generative AI Project
 
-This project is part of my **Generative AI learning journey**.  
-It includes both experimental notebooks and a working Python app (`app.py`) designed to demonstrate key GenAI concepts such as model experimentation, text generation, and deployment setup.
 ---
 ## Deploy
 Link - https://next-word-prediction-gru.streamlit.app/
@@ -40,7 +38,3 @@ pip install nltk ipykernel streamlit scikit-learn tensorflow-macos tensorflow-me
 python app.py
 ```
 ---
-### 👨‍💻 Author
-
-Samarth Prajapati  
-Learning Generative AI from scratch — focusing on understanding, experimenting, and building real-world GenAI projects.
